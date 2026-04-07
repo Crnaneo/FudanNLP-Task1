@@ -1,7 +1,7 @@
 # 任务背景
-本任务需要基于机器学习，实现简单的文本分类任务。任务需要基于numpy和pytorch的相关函数，手动构建神经网络、损失函数，并结合词袋模型、N-gram等方式进行词向量化。在完成任务过程中，使用pytorch的相关函数可以在一个batch上进行操作，从而加快训练过程。任务完成后，训练的模型能够实现简单的文本分类任务
-[本练习的代码仓库](https://github.com/Crnaneo/FudanNLP-Task1)
-该仓库为完成https://github.com/FudanNLP/nlp-beginner相关任务
+本任务需要基于机器学习，实现简单的文本分类任务。任务需要基于numpy和pytorch的相关函数，手动构建神经网络、损失函数，并结合词袋模型、N-gram等方式进行词向量化。在完成任务过程中，使用pytorch的相关函数可以在一个batch上进行操作，从而加快训练过程。任务完成后，训练的模型能够实现简单的文本分类任务。
+[本练习的代码仓库](https://github.com/Crnaneo/FudanNLP-Task1)。
+该仓库为完成https://github.com/FudanNLP/nlp-beginner相关任务。
 
 # 方法实现
 ## 读取数据
